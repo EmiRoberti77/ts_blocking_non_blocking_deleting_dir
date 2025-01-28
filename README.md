@@ -141,3 +141,5 @@ console.log('Task2');
 ## License
 
 This code is licensed under the MIT License.
+
+Emi Roberti - Happy coding
